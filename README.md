@@ -17,7 +17,6 @@ Built using **Python, K-Means clustering**, and **Streamlit**, the app offers 20
 * 🎨 Select from 20 moods/themes
 * 🎯 See 5–6 curated palettes per mood
 * 📊 ML-based palette generation using K-Means
-* 📷 Download palette as PNG
 * ⚡ Fast, minimal Streamlit UI
 * 📚 Clean, structured code for easy learning and extension
 
