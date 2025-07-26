@@ -1,0 +1,7 @@
+streamlit
+scikit-learn
+matplotlib
+Pillow
+beautifulsoup4
+requests
+pandas
